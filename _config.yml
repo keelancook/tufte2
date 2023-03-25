@@ -29,7 +29,7 @@ teaser: /assets/images/teaser-image.png
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tufte  
+remote_theme: ab /jekyll-theme-tufte 
 # Outputting
 permalink: pretty
 paginate: 5 # amount of posts to show
