@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Keelan Cook
 subtitle: Missiologist
 logo: "/assets/images/seal.png"
 email: kcook@sebts.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The online home for Keelan Cook. Keelan is a missiologist who researches and writes on church and missions both in a North American and international context.
-url: "keelancook.com"
+url: "keelancook.com/tufte2"
 twitter_username: keelancook
 github_username: keelancook
 minimal_mistakes_skin: air
@@ -28,7 +29,7 @@ teaser: /assets/images/teaser-image.png
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-tufte  
 # Outputting
 permalink: pretty
 paginate: 5 # amount of posts to show
@@ -52,6 +53,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-theme-tufte
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -59,6 +61,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
+
 
 author:
   name   : "Keelan Cook"
