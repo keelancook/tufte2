@@ -1,0 +1,41 @@
+Meredith Cook:
+  name        : "Meredith Cook"
+  bio         : "Meredith is a writer and editor. She is the content manager for The Upstream Collective. She has an M.Div in Missiology from Southeastern Baptist Theological Seminary. She and her husband, Keelan, have two kids."
+  avatar      : "/assets/images/headshots/meredith-headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:meredithcook716@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://meredithcook.ml"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/meredithcook716"
+
+Trevor King:
+  name        : "Trevor King"
+  bio         : "Trevor is a doctoral candidate studying emotional intelligence and leadership. He serves as the Registrar at Southeastern Baptist Theological Seminary in Wake Forest, NC. He holds a Bachelor's degree in Christian Education from Mid-America Christian University and a Master's degree in Christian Studies from Southeastern Baptist Theological Seminary. He also serves as a pastor of Imago Dei Church in Raleigh, NC. Trevor and his wife, Ashley, raise their daughter in Wake Forest."
+  avatar      : "/assets/images/headshots/trevor-headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tking@sebts.edu"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/notkennyrogers"
+
+Marie Burrus:
+  name        : "Marie Burrus"
+  bio         : "Marie Burrus is the Communications Specialist for the Union Baptist Association in Houston, TX. She manages, edits, and contributes content for UBA's blog, website, newsletter, and social media outlets. Marie uses her Master's degree in Intercultural Studies, her experience as a missionary in West Africa, and her lifelong love of words to write on outreach, culture, and the Christian life. "
+  avatar      : "/assets/images/headshots/marie-headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:marie@ubahouston.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ubahouston.org/marie"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mariemburrus"
